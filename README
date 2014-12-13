@@ -1,1 +1,8 @@
-These are my very first apps in gtk+
+Mis primeros ejemplos de aplicaciones en GTK
+
+Descripción:
+1 - Una ventana con título, programa inicial.
+2 - Ventana con un botón que hace que aparezcan mesajes en el terminal.
+3 - Muy parecido al 1.
+4 - Ventana con un botón que cierra la aplicación.
+5 - Ventana con una caja vertical con dos botones que cierran la aplicación.
